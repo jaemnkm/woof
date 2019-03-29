@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "21772e5b2dc83e6cb09e",
-    "url": "/woof/static/css/main.9ace5801.chunk.css"
+    "revision": "700ab1c343e25da5d4b4",
+    "url": "/woof/static/css/main.46ab1fc9.chunk.css"
   },
   {
-    "revision": "21772e5b2dc83e6cb09e",
-    "url": "/woof/static/js/main.21772e5b.chunk.js"
+    "revision": "700ab1c343e25da5d4b4",
+    "url": "/woof/static/js/main.68407197.chunk.js"
   },
   {
-    "revision": "d790d114660dec0b8a57",
-    "url": "/woof/static/js/1.d790d114.chunk.js"
+    "revision": "40bd7b3f3c863f62ec24",
+    "url": "/woof/static/js/runtime~main.01dee789.js"
   },
   {
-    "revision": "d38e75a6c3f64f9e1f39",
-    "url": "/woof/static/js/runtime~main.d38e75a6.js"
+    "revision": "9ae59e64629b18362ef0",
+    "url": "/woof/static/js/2.89f4a8ad.chunk.js"
   },
   {
     "revision": "911192d34abfee1ac56521c237b20e19",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/woof/static/media/animal-collar-dog-8700.4aa91c26.jpg"
   },
   {
-    "revision": "43cf667d0680cf84272982360917f564",
+    "revision": "61a24329a950eede9747eea0220b833c",
     "url": "/woof/index.html"
   }
 ];
